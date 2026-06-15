@@ -24,9 +24,11 @@ Some pictures of me and friends
         <td><img <img width="1280" height="960" alt="z7921437115318_fb639b7655dab9b1bb83d049094fa8e2" src="https://github.com/user-attachments/assets/128a7ffb-2720-40b8-88ec-81906cbb8add" alt="Image 3" width="150"/> </td>
     </tr>
     <tr>
-        <td><img src="image4.jpg" alt="Image 4" width="150"></td>
-        <td><img src="image5.jpg" alt="Image 5" width="150"></td>
-        <td><img src="image6.jpg" alt="Image 6" width="150"></td>
+        <td><img width="1280" height="960" alt="z7921439845367_b3fd8a996d652b753ef9cbb38a0ff545" src="https://github.com/user-attachments/assets/d7856a66-e370-4703-a15c-745cb14b9883" /></td>
+        <td><img width="1280" height="960" alt="z7923131083707_500c20273bef3f4519fb6a3ab4061c3d" src="https://github.com/user-attachments/assets/00feb608-200a-45d3-8838-7082635748b7" />
+</td>
+        <td><img width="1280" height="960" alt="z7924609806965_8a40199c1394a3c43dfffc10f5256a92" src="https://github.com/user-attachments/assets/5d188d93-01f0-451a-8b03-50a40f48e4db" />
+</td>
     </tr>
     <tr>
         <td><img src="image7.jpg" alt="Image 7" width="150"></td>
