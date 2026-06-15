@@ -11,4 +11,7 @@
 <p align="center">
    <img width="908" height="643" alt="image" src="https://github.com/user-attachments/assets/555f1cb1-8936-42ff-980f-de86f8db582d" />
 </p>
-[View PDF](https://github.com/dangvoquoc/Graduation-Ceremony/blob/main/BangKySu.pdf)
+
+For PDF File and Detailed Review, pls check following links
+[Engineer Degree](https://github.com/dangvoquoc/Graduation-Ceremony/blob/main/BangKySu.pdf)
+[Diploma Supplement](https://github.com/dangvoquoc/Graduation-Ceremony/blob/main/phu luc van bang dai hoc-15062026155936.pdf)
