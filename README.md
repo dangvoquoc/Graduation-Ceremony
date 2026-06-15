@@ -43,7 +43,8 @@ Some pictures of me and friends
       <td>
         <img width="2568" height="1926" alt="z7922171553864_06df39807fe7d77f02876531a40dc6c2" src="https://github.com/user-attachments/assets/4016e3d7-0a6b-4485-925c-839601fdd19b" />
       </td>
-      <td><img width="1280" height="960" alt="z7922523340790_d19f20a168bdef2f57abf91a518503fa" src="https://github.com/user-attachments/assets/15a45169-424d-4d06-a46b-48d6a3f9e338" />
-</td>
     </tr>
+  <tr>
+    <td><img width="1280" height="960" alt="z7922523340790_d19f20a168bdef2f57abf91a518503fa" src="https://github.com/user-attachments/assets/15a45169-424d-4d06-a46b-48d6a3f9e338" /></td>
+  </tr>
 </table>
